@@ -1,0 +1,11 @@
+---
+name: PluginTemplate
+author: BlueWhaleYT
+main: BlueWhaleYT\PluginTemplate\Main
+api: 3.11.6
+version: 1.0.0
+description: It is a plugin thats for beginners.
+commands:
+  test:
+    description: Test command.
+...
